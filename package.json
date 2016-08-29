@@ -1,0 +1,23 @@
+{
+  "name": "seleniumpractice",
+  "version": "1.0.0",
+  "description": "Example project to setup protractor",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nosisa/seleniumpractice.git"
+  },
+  "author": "nosisa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nosisa/seleniumpractice/issues"
+  },
+  "homepage": "https://github.com/Nosisa/seleniumpractice#readme",
+  "devDependencies": {
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-protractor-runner": "^3.2.0"
+  }
+}
