@@ -12,14 +12,14 @@ https://github.com/Nosisa/seleniumpractice.git
 
 
 
-#Run server ontab
+#Run server 
 node ./node_modules/protractor/bin/webdriver-manager Update
 node ./node_modules/protractor/bin/webdriver-manager start
 
 #Run test another tab
 Protractor conf.js
 
-#Run test with Grunt
+#Run test with Grunt === Not working yet
 grunt test
 
 
