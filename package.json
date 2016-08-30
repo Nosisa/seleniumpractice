@@ -2,9 +2,9 @@
   "name": "seleniumpractice",
   "version": "1.0.0",
   "description": "Example project to setup protractor",
-  "main": "index.js",
+  "main": "spec/spec.js",
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt"
   },
   "repository": {
     "type": "git",
