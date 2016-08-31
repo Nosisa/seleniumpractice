@@ -8,4 +8,6 @@ describe('angularjs homepage', function() {
 
     expect(greeting.getText()).toEqual('Hello Julie!');
   });
+
+  
 });

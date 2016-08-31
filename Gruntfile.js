@@ -4,7 +4,7 @@ module.exports = function(grunt) {
     pkg: grunt.file.readJSON('package.json'),
 
     jshint: {
-      files: ['Gruntfile.js', 'specs/*.js'],
+      files: ['Gruntfile.js', 'test/specs/homepage.js'],
       options: {
         // options here to override JSHint defaults
         globals: {

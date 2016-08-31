@@ -2,7 +2,7 @@
   "name": "seleniumpractice",
   "version": "1.0.0",
   "description": "Example project to setup protractor",
-  "main": "spec/spec.js",
+  "main": "test/spec/homepage.js",
   "scripts": {
     "test": "grunt"
   },
@@ -22,3 +22,4 @@
     "grunt-protractor-runner": "^3.2.0"
   }
 }
+ 
