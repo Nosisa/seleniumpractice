@@ -7,8 +7,6 @@
 
 
 
-#Git clone repo
-https://github.com/Nosisa/seleniumpractice.git
 
 
 
